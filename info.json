@@ -3,8 +3,7 @@
     "version": "1.0.15",
     "title": "Factorio HD Age Modpack",
     "author": "Ingo_Igel",
-    "contact": "",
-    "homepage": "https://mods.factorio.com/user/Ingo_Igel",
+    "homepage": "https://github.com/Ingo-Igel/factorio_hd_age_modpack",
     "factorio_version": "2.0",
     "dependencies": [
 	"base >= 2.0.23",
@@ -27,5 +26,5 @@
 	],
 	"rail_bridges_required": true,
 	"quality_required": true,
-    "description": "Warning: The VRAM requirement is high!\n\nMod pack for the base game and DLC, which bundles all Factorio HD Age mods.\nThis mod itself does not contain any content."
+    "description": "This modpack bundles all of the Factorio HD Age mods for the Base Game and the Space Age DLC.\nIt doesn't contain any content itself. It only references to the other Factorio HD Age mods as required dependencies.\nA total of at least 13 GB of VRAM is recommended."
 }
