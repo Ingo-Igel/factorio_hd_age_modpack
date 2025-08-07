@@ -28,6 +28,8 @@
 	"quality_required": true,
     "description": "This modpack bundles all of the Factorio HD Age mods for the Base Game and the Space Age DLC.\nIt doesn't contain any content itself. It only references to the other Factorio HD Age mods as required dependencies.\nA total of at least 13 GB of VRAM is recommended.",
 	"package": {
+		"no_git_tag": true,
+		"no_git_push": true,
 		"readme": "README.md",
 		"gallery": [
 			".gallery/thumbnail_huge.png"
