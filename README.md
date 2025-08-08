@@ -1,5 +1,7 @@
 # Factorio HD Age: Modpack
 
+[![Github Source Code](https://img.shields.io/badge/GitHub-Source%20Code-blue)](https://github.com/Ingo-Igel/factorio_hd_age_modpack) [![Downloads](https://img.shields.io/badge/dynamic/json?color=orange&label=Factorio%20Mod%20Portal&query=downloads_count&suffix=%20downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Ffactorio_hd_age_modpack)](https://mods.factorio.com/mod/factorio_hd_age_modpack)
+
 This modpack bundles all of the Factorio HD Age mods for the base game and the Space Age DLC.
 It doesn't contain any content itself. It only references to the other Factorio HD Age mods as required dependencies.
 
@@ -24,8 +26,7 @@ The Factorio HD Age mod series replaces most of the game's textures with high-de
 Due to the file size limitations, the textures are divided thematically into several mods and grouped in modpacks as follows:
 
 * [Modpack](https://mods.factorio.com/mod/factorio_hd_age_modpack) +7,6 GB of VRAM | at least 13 GB of VRAM is recommended  
-or  
-[Modpack (all optional)](https://mods.factorio.com/mod/factorio_hd_age_modpack_optional) Additional VRAM consumption depends on the enabled mods.
+or [Modpack (all optional)](https://mods.factorio.com/mod/factorio_hd_age_modpack_optional) Additional VRAM consumption depends on the enabled mods.
 	* [Elevated Rails](https://mods.factorio.com/mod/factorio_hd_age_elevated_rails) +450 MB of VRAM
 	* [Quality](https://mods.factorio.com/mod/factorio_hd_age_quality) +170 MB of VRAM
 	* [Space Age - Base](https://mods.factorio.com/mod/factorio_hd_age_space_age_base) +680 MB of VRAM
@@ -41,8 +42,7 @@ or
 	* [Space Age - Terrain Vulcanus](https://mods.factorio.com/mod/factorio_hd_age_space_age_terrain_vulcanus) +430 MB of VRAM
 	* [Space Age - Graphics Addon](https://mods.factorio.com/mod/factorio_hd_age_space_age_graphics_addon) always optional
 	* [Modpack - Base Game](https://mods.factorio.com/mod/factorio_hd_age_modpack_base_game_only) +3 GB of VRAM | at least 6 GB of VRAM is recommended  
-	or  
-	[Modpack - Base Game (all optional)](https://mods.factorio.com/mod/factorio_hd_age_modpack_base_game_optional) Additional VRAM consumption depends on the enabled mods.
+	or [Modpack - Base Game (all optional)](https://mods.factorio.com/mod/factorio_hd_age_modpack_base_game_optional) Additional VRAM consumption depends on the enabled mods.
 		* [Base Game - Base](https://mods.factorio.com/mod/factorio_hd_age_base_game_base) +510 MB of VRAM
 		* [Base Game - Decorative](https://mods.factorio.com/mod/factorio_hd_age_base_game_decorative) +160 MB of VRAM
 		* [Base Game - Enemies Nauvis](https://mods.factorio.com/mod/factorio_hd_age_base_game_enemies_nauvis) +330 MB of VRAM
