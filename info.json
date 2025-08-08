@@ -3,6 +3,7 @@
     "version": "1.1.0",
     "title": "Factorio HD Age: Modpack",
     "author": "Ingo_Igel",
+	"source_URL": "https://github.com/Ingo-Igel/factorio_hd_age_modpack",
     "homepage": "https://github.com/Ingo-Igel/factorio_hd_age_modpack",
     "factorio_version": "2.0",
     "dependencies": [
@@ -31,9 +32,11 @@
 		"no_git_tag": true,
 		"no_git_push": true,
 		"readme": "README.md",
+		"faq": "FAQ.md",
 		"gallery": [
 			".gallery/thumbnail_huge.png"
 		],
+		"prune_gallery": true,
 		"sync_portal_details": true
 	}
 }
