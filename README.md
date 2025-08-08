@@ -17,10 +17,6 @@ ___
 
 ![Factorio HD Age Mods](https://github.com/Ingo-Igel/factorio_hd_age_modpack/blob/main/.gitgallery/Factorio_HD_Age_Logo.png?raw=true)
 
-___
-
-# Factorio HD Age Mods:
-
 The Factorio HD Age mod series replaces most of the game's textures with high-definition textures that are twice the resolution.
 
 Due to the file size limitations, the textures are divided thematically into several mods and grouped in modpacks as follows:
@@ -61,10 +57,6 @@ All mods in the series, apart from the modpacks, can be used individually in any
 ___
 
 ![Factorio QoL Age Mods](https://github.com/Ingo-Igel/factorio_qol_age_space_age/blob/main/.gitgallery/Factorio_QoL_Age_Logo.png?raw=true)
-
-___
-
-# Factorio QoL Age Mods:
 
 * [Factorio QoL Age: Space Age](https://mods.factorio.com/mod/factorio_qol_age_space_age)
 contains various QoL mods for the Space Age DLC and base game that I personally use.
