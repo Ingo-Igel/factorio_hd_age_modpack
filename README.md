@@ -72,4 +72,3 @@ contains various QoL mods for the Space Age DLC and base game that I personally 
 contains various QoL mods for the base game that I personally use.
 * [Factorio Qol Age: Resorted Items](https://mods.factorio.com/mod/factorio_qol_age_resorted_items)
 partially changes the order of items within the Logistics, Production, and Military groups.
-
